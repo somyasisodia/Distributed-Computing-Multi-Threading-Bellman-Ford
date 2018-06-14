@@ -1,0 +1,23 @@
+PROJECT TEAM
+-------------------------------------
+SOMYA SINGH - sxs161331
+SABARISH NADARAJAN - sxn164530
+SONALI MISHRA - sxm161931
+
+
+COMPILATION AND RUN
+-------------------------------------
+1) javac BellmanFordMaster.java
+2) java BellmanFordMaster
+3) Enter input file location
+
+SAMPLE INPUTS ATTACHED
+-------------------------------------
+1) First line contains number of nodes 
+2) Second line contains Node ids (ascending order)
+3) Source Node id
+4) Adjaceny matrix 
+
+SAMPLE OUTPUT ATTACHED
+-------------------------------------
+output file names corresponding to input file names 
